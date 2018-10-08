@@ -6984,3 +6984,4 @@ Kashish Khullar - :P
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 [Eric Ng](https://github.com/nacleric)
 [rachitmanchanda](https://github.com/rachitmanchanda)
+- [Piotr Lech](https://github.com/AppTrans)
